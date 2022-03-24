@@ -27,7 +27,7 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | emote |  | resolve a Twitch emote | User
 | esearch |  | search an emote on bttv/ffz/7tv by name | User
 | everyone | massping | gives you a list with every user in chat | User
-| feelsgoodman |  |  | Owner
+| feelsgoodman |  | 掵悊ꖹ傤⩪쟄ᑶ鈂훡Ҟ།윽ࢬ㱺끯㩋㽯ᥤ惀汑饹䐉뎗꧞䧷瀢̞裈눭顎侮ꭱ죽 | Owner
 | fill |  | repeats the specified phrase until it reaches 500 characters | User | Vip
 | findmsg |  | find who sent the message from your input (you can use SQL Wildcards) | User
 | firstmsg | fl | sends the target user\'s first seen message in the current channel | User
