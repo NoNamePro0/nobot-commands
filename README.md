@@ -18,6 +18,7 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | avatar | pfp, av | sends the specified user PFP url | User
 | boobatv | booba | sends a random steamer's thumbnail from booba.tv | User
 | botinfo | bot, info, susgeebot  | sends details about the bot | User
+| bible |  | Schöne Texte aus verschiedenen Chats  | User |  |
 | chatters |  | sends the chatters count | Mod
 | clear |  | spams clear 50 times | Mod | Mod
 | cmd | command | disable/enable a command in the current channel | Mod
