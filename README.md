@@ -55,4 +55,8 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | suggest |  | make a suggestion | User
 | topchatterchannel | topchatter, tc | sends the top chatter of specified channel | User
 | topchattertoday | tct | sends the top chatter today of specified channel | User
+| timeoutchannel | timeout, to | sends the specified user timeout count of specified channel | User
+| timeoutschanneltoday | tot | sends the specified user timeout count from today of specified channel | User
+| toptimeoutschannel | toptimeout, tto | sends the top timeouted users of specified channel | User
+| toptimeoutstoday | ttot | sends the top timeouted users from today of specified channel | User
 | yourmom |  | sends a random mom joke 😹 | User
