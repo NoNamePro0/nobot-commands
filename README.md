@@ -26,6 +26,8 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | dislikes |  | get the dislike count of a YouTube video (returnyoutubedislike.com) | User
 | donger |  | raise your dongers ヽ༼ຈل͜ຈ༽ﾉ | User
 | emote |  | resolve a Twitch emote | User
+| ecount |  | sends the specified emote count from specified Channel | User
+| ecounttoday | ect | sends the specified emote count from specified Channel today | User
 | esearch |  | search an emote on bttv/ffz/7tv by name | User
 | everyone | massping | gives you a list with every user in chat | User
 | feelsgoodman |  | 掵悊ꖹ傤⩪쟄ᑶ鈂훡Ҟ།윽ࢬ㱺끯㩋㽯ᥤ惀汑饹䐉뎗꧞䧷瀢̞裈눭顎侮ꭱ죽 | Owner
