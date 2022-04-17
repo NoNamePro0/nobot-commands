@@ -15,6 +15,7 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | boobatv | booba | sends a random steamer's thumbnail from booba.tv | User
 | botinfo | bot, info, susgeebot  | sends details about the bot | User
 | bible |  | Schöne Texte aus verschiedenen Chats  | User |  |
+| chatting | Options: alltime, today | sends the specified user messages count from specified Channel alltime/today | User
 | chatters |  | sends the chatters count | Mod
 | clear |  | spams clear 50 times | Mod | Mod
 | cmd | command | disable/enable a command in the current channel | Mod
@@ -35,8 +36,6 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | help |  | brings you here | User
 | hug |  | hug somebody 🤗 | User
 | lasttweet | lt | see the last Tweet of a user | User
-| lineschannels | chatting, c | sends the specified user messages count from specified logged Channel | User
-| lineschanneltoday | chattingtoday, ct  | sends the specified user messages count from specified logged Channel today | User
 | math |  | does math | User
 | mostsent | msm  | sends the target user\'s most sent message in the current channel | User
 | neko | ayaya  | sends a random neko | User
@@ -51,7 +50,6 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | spam |  | spam a phrase in chat | Mod | Vip
 | streaminfo |  | sends info about the stream of the specified channel | User
 | suggest |  | make a suggestion | User
-| topchatterchannel | topchatter, tc | sends the top chatter of specified channel | User
-| topchattertoday | tct | sends the top chatter today of specified channel | User
+| topchatter | Options: alltime, today | sends the top chatter/top chatter topday of specified channel | User
 | timeouts | Options: channel, channeltoday, top, toptoday | check timeouts for you or specified channel | User
 | yourmom |  | sends a random mom joke 😹 | User
