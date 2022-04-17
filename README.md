@@ -1,7 +1,3 @@
-# Susgeebot Twitch Chatbot
-
-![MEGADANK](https://cdn.frankerfacez.com/emoticon/239630/1) Twitch chatbot made by [Supa](https://github.com/0Supa) modified by [lucas19961](https://twitch.tv/lucas19961)
-
 ## Contact me here:
 * Twitch: [lucas19961](https://www.twitch.tv/lucas19961)
 
