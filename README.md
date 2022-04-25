@@ -49,6 +49,7 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | randlinechannel | rlc  | sends a random line from the specified channel | User
 | spam |  | spam a phrase in chat | Mod | Vip
 | streaminfo |  | sends info about the stream of the specified channel | User
+| subage | | get details about a Twitch user subscription | User |
 | suggest |  | make a suggestion | User
 | topchatter | Options: alltime, today | sends the top chatter/top chatter topday of specified channel | User
 | timeouts | Options: channel, channeltoday, top, toptoday | check timeouts for you or specified channel | User
