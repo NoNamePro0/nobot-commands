@@ -20,6 +20,7 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | clear |  | spams clear 50 times | Mod | Mod
 | cmd | command | disable/enable a command in the current channel | Mod
 | dadjoke |  | sends a random dad joke | User
+| deletesuggest | | deletes your suggest | User
 | dislikes |  | get the dislike count of a YouTube video (returnyoutubedislike.com) | User
 | donger |  | raise your dongers ヽ༼ຈل͜ຈ༽ﾉ | User
 | emote |  | resolve a Twitch emote | User
@@ -36,8 +37,10 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | help |  | brings you here | User
 | hug |  | hug somebody 🤗 | User
 | lasttweet | lt | see the last Tweet of a user | User
+| lastline | ll | see the last line of a user | User
 | math |  | does math | User
 | mostsent | msm  | sends the target user\'s most sent message in the current channel | User
+| msc | | sends the most send message of specified channel | User
 | neko | ayaya  | sends a random neko | User
 | nuke |   | nukes messages | Mod | Mod
 | pardon |  | unbans users banned from Nuke | Mod | Mod
