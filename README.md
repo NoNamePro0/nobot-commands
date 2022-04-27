@@ -11,6 +11,7 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | % |  | sends a random precentage between 0% and 100% | User
 | 8ball |  | answers your question | User
 | animal | cat, pussy, 🐱, dog, 🐶, fox, 🦊  | sends a random image of an animal | User
+| antiping | | Add an invisible (zero-space) character into every word to avoid mentioning users in chatterino. | User
 | avatar | pfp, av | sends the specified user PFP url | User
 | boobatv | booba | sends a random steamer's thumbnail from booba.tv | User
 | botinfo | bot, info, susgeebot  | sends details about the bot | User
@@ -38,6 +39,7 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | hug |  | hug somebody 🤗 | User
 | lasttweet | lt | see the last Tweet of a user | User
 | lastline | ll | see the last line of a user | User
+| linestotal | | sends the curren user chat stats | User
 | math |  | does math | User
 | mostsent | msm  | sends the target user\'s most sent message in the current channel | User
 | msc | | sends the most send message of specified channel | User
@@ -50,6 +52,7 @@ If you want to add the Bot to your Channel type ?addbot into the chat of [Susgee
 | randclip | rc  | sends a random clip from the top 100 clips in the channel | User
 | randline | rl  | sends a random line from the current channel| User
 | randlinechannel | rlc  | sends a random line from the specified channel | User
+| stats | | send the current channel chat stats | User 
 | spam |  | spam a phrase in chat | Mod | Vip
 | streaminfo |  | sends info about the stream of the specified channel | User
 | subage | | get details about a Twitch user subscription | User |
