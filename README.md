@@ -1,7 +1,8 @@
 Contact me here:
 * Twitch: [nonamepro0](https://www.twitch.tv/nonamepro0)
+* `;suggest <message>` in a channel where nobot is joined
 
-If you want to add the Bot to your Channel whisper `nonamepro0`
+If you want to add the Bot to your Channel whisper `nonamepro0`, or write a `;suggest`
 
 # Commands
 
