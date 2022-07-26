@@ -18,6 +18,12 @@ Modding tools are comming soon. Clueless
 | `;image`     | `<link>` | gets the text content of a image (maintenance)|
 | `;stalk`     | `<username>` | repeats the latest message of a user (could take long or be dead) |
 | `;penis`     | | can say you how long your dick is without measuring |
+| `;hot`       | | hottest nobot users |
+| `;cool`      | | coolest nobot users |
+| `;w`         | `[<nickname>]` | shows your (or `nickname`'s) weather |
+| `;weather`   | `<city>` | shows `city`'s weather |
+
+If you're a nobot user and don't appear in `;hot` and `;cool`, you can write a `;suggest`.
 
 ## Channel commands
 NoBot is able to do simple channel commands that responds with a predefined message.
