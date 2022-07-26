@@ -16,7 +16,8 @@ Modding tools are comming soon. Clueless
 | `;tts`       | `<message>` | writes a audio url with your message spoken |
 | `;translate` | `<target-lang> <message>` | translates you message to another language |
 | `;image`     | `<link>` | gets the text content of a image (maintenance)|
-| `;stalk`      | `<username>` | repeats the latest message of a user |
+| `;stalk`     | `<username>` | repeats the latest message of a user (could take long or be dead) |
+| `;penis`     | | can say you how long your dick is without measuring |
 
 ## Channel commands
 NoBot is able to do simple channel commands that responds with a predefined message.
