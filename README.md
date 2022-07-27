@@ -19,6 +19,7 @@ Modding tools are comming soon. Clueless
 | `;image`     | `<link>` | gets the text content of a image (maintenance)|
 | `;stalk`     | `<username>` | repeats the latest message of a user (could take long or be dead) |
 | `;penis`     | | can say you how long your dick is without measuring |
+| `;whispers`  | | gives you a link with your whispers |
 | `;hot`       | | hottest nobot users |
 | `;cool`      | | coolest nobot users |
 | `;w`         | `[<nickname>]` | shows your (or `nickname`'s) weather |
