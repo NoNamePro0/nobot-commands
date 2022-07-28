@@ -20,6 +20,7 @@ Modding tools are comming soon. Clueless
 | `;stalk`     | `<username>` | repeats the latest message of a user (could take long or be dead) |
 | `;penis`     | | can say you how long your dick is without measuring |
 | `;whispers`  | | gives you a link with your whispers |
+| `;google`    | <search message> | gives you a link with google Okayeg |
 | `;hot`       | | hottest nobot users |
 | `;cool`      | | coolest nobot users |
 | `;w`         | `[<nickname>]` | shows your (or `nickname`'s) weather |
