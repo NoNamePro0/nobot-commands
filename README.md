@@ -38,6 +38,8 @@ NoBot is able to do simple channel commands that responds with a predefined mess
 | `;delcmd`    | `<command>` | removes a command |
 | `;cmds`    | | lists all channel commands |
 
+> INFO: !geburtstage is a special command. You can add birthdays with `!addgeburtstag <Name> <01.01>`
+
 ## Okayeg bank commands
 |   Command   | Arguments  | Description  |
 |:-----------:|:-----------:|:------------:|
