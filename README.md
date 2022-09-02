@@ -2,7 +2,7 @@ Contact me here:
 * Twitch: [nonamepro0](https://www.twitch.tv/nonamepro0)
 * `;suggest <message>` in a channel where nobot is joined
 
-If you want to add the Bot to your Channel whisper `nonamepro0`, or write a `;suggest`
+If you want to join NoBot0 your channel, type `;join` in `#nobot0`
 
 # Commands
 
@@ -54,4 +54,6 @@ NoBot is able to do simple channel commands that responds with a predefined mess
 | `;ping`     |  | answers pong |
 | `;suggest`  | `<suggestion>` | suggests a new feature |
 | `;bot`      |  | bot information |
-| `;help`     | `commands` | goes here |
+| `;help`     | | goes here |
+| `;join`     | | joins your channel |
+
